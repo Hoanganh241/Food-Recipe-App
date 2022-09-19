@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/MyFoodApplication/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.1" />
-        <entry key="..\:/Android/MyFoodApplication/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Android/MyFoodApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android/MyFoodApplication/app/src/main/res/layout/activity_recipe_details.xml" value="0.1" />
+        <entry key="..\:/Android/MyFoodApplication/app/src/main/res/layout/list_meal_ingredients.xml" value="0.1" />
         <entry key="..\:/Android/MyFoodApplication/app/src/main/res/layout/list_random_recipe.xml" value="0.4" />
         <entry key="..\:/Android/MyFoodApplication/app/src/main/res/layout/spinner_inner_text.xml" value="0.1048454469507101" />
         <entry key="..\:/Android/MyFoodApplication/app/src/main/res/layout/spinner_text.xml" value="0.1048454469507101" />
